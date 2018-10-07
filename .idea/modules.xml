@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/core/filestorage-core.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/core/filestorage-core.iml" group="filestorage-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/core/filestorage-core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/core/filestorage-core_main.iml" group="filestorage-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/core/filestorage-core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/core/filestorage-core_test.iml" group="filestorage-core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/global/filestorage-global.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/global/filestorage-global.iml" group="filestorage-global" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/global/filestorage-global_main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/global/filestorage-global_main.iml" group="filestorage-global" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/global/filestorage-global_test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/global/filestorage-global_test.iml" group="filestorage-global" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/web/filestorage-web.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/web/filestorage-web.iml" group="filestorage-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/web/filestorage-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/web/filestorage-web_main.iml" group="filestorage-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modules/web/filestorage-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/modules/web/filestorage-web_test.iml" group="filestorage-web" />
+      <module fileurl="file://$PROJECT_DIR$/google-drive-filestorage.iml" filepath="$PROJECT_DIR$/google-drive-filestorage.iml" />
+    </modules>
+  </component>
+</project>
